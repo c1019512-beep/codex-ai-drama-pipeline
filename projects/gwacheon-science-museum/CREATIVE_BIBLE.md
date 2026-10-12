@@ -12,7 +12,7 @@
 
 ### 누룽지 (아기 고양이)
 ```
-NURUNGJI: a small fluffy orange tabby kitten with a darker burnt-orange saddle patch across its back, a white chin and white chest bib, round amber eyes, pink nose, short rounded ears, and a dark-orange ringed tail with a darker tip.
+NURUNGJI: a small fluffy orange tabby kitten with a darker burnt-orange saddle patch across its back, a white chin and white chest bib, four white paws, round amber eyes, pink nose, short rounded ears, and a dark-orange ringed tail with a darker tip.
 ```
 
 ### 우주복 (이번 재작업의 핵심)
@@ -41,7 +41,7 @@ STYLE: high-end photoreal CGI, soft warm museum lighting, gentle shallow depth o
 
 ### A. 누룽지 기본 시트 (옷 없음) → `A_nurungji.png`
 ```
-Character reference sheet, 16:9, three studio photographs of the same kitten arranged side by side on a plain light-grey background with flat even lighting. Left panel: full body seen from behind, showing the back pattern and tail. Middle panel: full body side profile standing on all four legs. Right panel: large 3/4 view close-up portrait of the face with bright catchlights in both eyes. NURUNGJI: a small fluffy orange tabby kitten with a darker burnt-orange saddle patch across its back, a white chin and white chest bib, round amber eyes, pink nose, short rounded ears, and a dark-orange ringed tail with a darker tip. Consistent fur pattern, colors and body size across all three panels. Realistic fur detail.
+Character reference sheet, 16:9, three studio photographs of the same kitten arranged side by side on a plain light-grey background with flat even lighting. Left panel: full body seen from behind, showing the back pattern and tail. Middle panel: full body side profile standing on all four legs. Right panel: large 3/4 view close-up portrait of the face with bright catchlights in both eyes. NURUNGJI: a small fluffy orange tabby kitten with a darker burnt-orange saddle patch across its back, a white chin and white chest bib, four white paws, round amber eyes, pink nose, short rounded ears, and a dark-orange ringed tail with a darker tip. Consistent fur pattern, colors and body size across all three panels. Realistic fur detail.
 ```
 ✅ 고를 때 확인: 등의 진한 '누룽지' 무늬 · 흰 턱/가슴 · 눈에 빛 반사(캐치라이트)
 
