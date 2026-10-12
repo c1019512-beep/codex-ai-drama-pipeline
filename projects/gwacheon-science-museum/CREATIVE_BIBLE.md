@@ -17,7 +17,7 @@ NURUNGJI: a small fluffy orange tabby kitten with a darker burnt-orange saddle p
 
 ### 우주복 (이번 재작업의 핵심)
 ```
-SUIT: a kitten-sized white padded astronaut suit that covers the whole body — chest, belly, back, and all four legs down to white padded paw boots. One orange stripe around each leg cuff, one orange stripe across the chest, a round red Mars patch on the left chest, a small grey control box at the center of the chest, a silver metal neck ring, and a clear round glass bubble helmet. The tail comes out through a small orange-ringed opening at the lower back; the rest of the back is covered by the white suit with a slim white life-support pack.
+SUIT: a kitten-sized white quilted padded astronaut suit that covers the whole body — chest, belly, back, and all four legs down to white padded boots with grey soles. Orange piping runs around the silver metal neck ring and down each side of the body; one orange band around each leg above the boot; one round red Mars patch on the chest; a small grey control box on the side of the torso; a clear round glass bubble helmet. On the back, a flat white life-support pack covers the upper back, and the tail comes out through an orange-ringed opening at the base of the back; the rest of the back is covered by the white suit.
 ```
 - 지난 영상 실패 원인: 뒷모습에서 등이 털로 나옴 → **등판 생명유지 팩 + 꼬리 구멍**을 디자인에 박아 넣어 "뒤에서도 옷"이 되게 했다.
 - 컷 2·3 디자인 불일치(줄무늬 vs 점무늬) → 줄무늬 버전 하나로 통일.
@@ -39,13 +39,13 @@ STYLE: high-end photoreal CGI, soft warm museum lighting, gentle shallow depth o
 > 각 시트는 **3~4장 뽑아서 제일 나은 것 하나**를 고른다. 고른 이미지는 이름을 붙여 저장(`A_nurungji.png` 등).
 > 시트는 일부러 **심심하게**(회색 배경, 평평한 조명) 만든다. 영화 같은 조명은 영상 단계에서 넣는다.
 
-### A. 누룽지 기본 시트 (옷 없음) → `A_nurungji.png`
+### A. 누룽지 기본 시트 (옷 없음) → `A_nurungji.png` — ✅ 락 완료
 ```
 Character reference sheet, 16:9, three studio photographs of the same kitten arranged side by side on a plain light-grey background with flat even lighting. Left panel: full body seen from behind, showing the back pattern and tail. Middle panel: full body side profile standing on all four legs. Right panel: large 3/4 view close-up portrait of the face with bright catchlights in both eyes. NURUNGJI: a small fluffy orange tabby kitten with a darker burnt-orange saddle patch across its back, a white chin and white chest bib, four white paws, round amber eyes, pink nose, short rounded ears, and a dark-orange ringed tail with a darker tip. Consistent fur pattern, colors and body size across all three panels. Realistic fur detail.
 ```
 ✅ 고를 때 확인: 등의 진한 '누룽지' 무늬 · 흰 턱/가슴 · 눈에 빛 반사(캐치라이트)
 
-### B. 누룽지 우주복 시트 → `B_nurungji_suit.png` ⭐ 가장 중요
+### B. 누룽지 우주복 시트 → `B_nurungji_suit.png` ⭐ 가장 중요 — ✅ 락 완료 (편집 1회로 헬멧 반사 조각 제거, 워터마크 제거)
 **A 이미지를 참조로 첨부**하고:
 ```
 Character reference sheet, 16:9, three studio photographs of the same kitten from the reference image, now wearing an astronaut suit, arranged side by side on a plain light-grey background with flat even lighting. Left panel: full body seen directly from behind, the white suit and slim white life-support pack covering the entire back, the tail coming out through the small orange-ringed opening. Middle panel: full body front view standing on all four legs inside the suit. Right panel: large 3/4 view close-up of the face inside the clear glass bubble helmet, bright catchlights in both eyes. SUIT: a kitten-sized white padded astronaut suit that covers the whole body — chest, belly, back, and all four legs down to white padded paw boots. One orange stripe around each leg cuff, one orange stripe across the chest, a round red Mars patch on the left chest, a small grey control box at the center of the chest, a silver metal neck ring, and a clear round glass bubble helmet. The tail comes out through a small orange-ringed opening at the lower back; the rest of the back is covered by the white suit with a slim white life-support pack. Same kitten face and fur colors as the reference. Consistent suit design across all three panels.
