@@ -52,7 +52,7 @@ Character reference sheet, 16:9, three studio photographs of the same kitten fro
 ```
 ✅ 고를 때 확인: **왼쪽 뒷모습 패널에서 등 전체가 흰 옷으로 덮였는지**, 다리 4개 모두 부츠까지 덮였는지, 가슴 빨간 패치가 왼쪽에 있는지
 
-### C. 과니 시트 → `C_gwani.png`
+### C. 과니 시트 → `C_gwani.png` — ✅ 락 완료 (워터마크 제거)
 ```
 Character reference sheet, 16:9, three studio photographs of the same robot arranged side by side on a plain light-grey background with flat even lighting. Left panel: full body seen from behind. Middle panel: full body 3/4 front view with one arm raised, pointing to the side. Right panel: close-up of the head and face screen. GWANI: a friendly waist-high white glossy guide robot on a two-wheel base with blue-glowing wheel hubs, a rounded white head with a black glass face screen showing two glowing blue oval eyes and a small smile line, cyan light rings on both sides of the head, two slim white arms with grey joints, and a rectangular chest screen showing a red Mars planet and a white right-pointing arrow. Consistent design across all three panels.
 ```
