@@ -76,7 +76,7 @@ The kitten in the astronaut suit and the guide robot from the reference images s
 ```
 Wide empty 3/4-angle establishing shot of a bright modern science museum lobby, vertical 9:16, polished light marble floor with reflections, tall glass ceiling, a large hanging Mars planet model, a white wall sign reading '국립과천과학관', a glass entrance door to the exhibition on the right, warm late-afternoon light. No people, clean background plate for character animation.
 ```
-**E2 우주복 체험존** → `E2_suit_room.png`
+**E2 우주복 체험존** → `E2_suit_room.png` — ✅ 락 완료
 ```
 Wide empty 3/4-angle shot of a futuristic astronaut suit-up room inside a science museum, vertical 9:16, white curved walls, warm ceiling spotlights, a glass changing booth on the left, blue information screens, and an open doorway at the back revealing a red Mars landscape exhibit. No people, clean background plate for character animation.
 ```
