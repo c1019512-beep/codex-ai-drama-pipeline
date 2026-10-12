@@ -1,0 +1,25 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 720
+PlayResY: 1280
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Gwani,Pretendard,50,&H00FFE9B8,&H000000FF,&H00301A08,&H80000000,-1,0,0,0,100,100,0,0,1,4,2,2,40,40,230,1
+Style: Nurungji,Pretendard,58,&H0060C8FF,&H000000FF,&H00102040,&H80000000,-1,0,0,0,100,100,0,0,1,4,2,2,40,40,230,1
+Style: Screen,Pretendard,46,&H00FFF4D6,&H000000FF,&H00FFC060,&HC0301A08,-1,0,0,0,100,100,0,0,3,14,0,8,60,60,300,1
+Style: Title,Pretendard ExtraBold,64,&H00FFFFFF,&H000000FF,&H001A2A6E,&H80000000,-1,0,0,0,100,100,0,0,1,5,3,8,40,40,170,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.30,0:00:02.80,Gwani,,0,0,0,,{\fad(150,150)}화성까지는 이쪽입니다.
+Dialogue: 0,0:00:03.00,0:00:04.60,Nurungji,,0,0,0,,{\fad(100,150)}냥.
+Dialogue: 0,0:00:04.80,0:00:06.30,Gwani,,0,0,0,,{\fad(100,100)}(삐빅) 보호자 미확인…
+Dialogue: 0,0:00:06.40,0:00:09.20,Gwani,,0,0,0,,{\fad(100,200)}…예외 처리합니다.
+Dialogue: 0,0:00:11.00,0:00:14.80,Gwani,,0,0,0,,{\fad(150,200)}안전장비… 착용 완료.
+Dialogue: 0,0:00:21.00,0:00:24.20,Nurungji,,0,0,0,,{\fad(100,200)}냥!
+Dialogue: 0,0:00:24.60,0:00:27.20,Screen,,0,0,0,,{\fad(200,200)}오늘의 관람객: 1묘
+Dialogue: 0,0:00:27.30,0:00:30.00,Gwani,,0,0,0,,{\fad(200,0)}…내일도 이쪽입니다.
+Dialogue: 0,0:00:27.30,0:00:30.00,Title,,0,0,0,,{\fad(300,0)}화성까지는\N이쪽입니다 →
