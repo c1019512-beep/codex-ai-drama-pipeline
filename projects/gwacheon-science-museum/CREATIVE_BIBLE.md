@@ -27,6 +27,13 @@ SUIT: a kitten-sized white quilted padded astronaut suit that covers the whole b
 GWANI: a friendly waist-high white glossy guide robot on a two-wheel base with blue-glowing wheel hubs, a rounded white head with a black glass face screen showing two glowing blue oval eyes and a small smile line, cyan light rings on both sides of the head, two slim white arms with grey joints, and a rectangular chest screen showing a red Mars planet and a white right-pointing arrow.
 ```
 
+### 크기 비율 락 (D 테스트 1차에서 고양이가 로봇 가슴까지 커짐 → 추가)
+```
+SCALE: GWANI stands about three times taller than NURUNGJI; the top of the kitten's glass helmet reaches only the height of GWANI's wheel base.
+```
+- 고양이와 로봇이 같이 나오는 모든 이미지·영상 프롬프트에 그대로 붙인다
+- 이야기상 폐관 직전이라 배경에 사람이 없다: 영상 프롬프트에 `the museum is empty, no visitors` 유지
+
 ### 통일 스타일 문자열 (영상 프롬프트에만 사용, 시트에는 넣지 않음)
 ```
 STYLE: high-end photoreal CGI, soft warm museum lighting, gentle shallow depth of field, smooth cinematic camera.
