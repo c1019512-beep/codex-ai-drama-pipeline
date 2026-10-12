@@ -27,9 +27,9 @@ SUIT: a kitten-sized white quilted padded astronaut suit that covers the whole b
 GWANI: a friendly waist-high white glossy guide robot on a two-wheel base with blue-glowing wheel hubs, a rounded white head with a black glass face screen showing two glowing blue oval eyes and a small smile line, cyan light rings on both sides of the head, two slim white arms with grey joints, and a rectangular chest screen showing a red Mars planet and a white right-pointing arrow.
 ```
 
-### 크기 비율 락 (D 테스트 1차에서 고양이가 로봇 가슴까지 커짐 → 추가)
+### 크기 비율 락 — ✅ D 테스트 통과본(`assets/stress/D_2.png`) 기준으로 확정
 ```
-SCALE: GWANI stands about three times taller than NURUNGJI; the top of the kitten's glass helmet reaches only the height of GWANI's wheel base.
+SCALE: GWANI stands about twice as tall as NURUNGJI; the top of the kitten's glass helmet reaches GWANI's neck joint.
 ```
 - 고양이와 로봇이 같이 나오는 모든 이미지·영상 프롬프트에 그대로 붙인다
 - 이야기상 폐관 직전이라 배경에 사람이 없다: 영상 프롬프트에 `the museum is empty, no visitors` 유지
@@ -64,7 +64,7 @@ Character reference sheet, 16:9, three studio photographs of the same kitten fro
 Character reference sheet, 16:9, three studio photographs of the same robot arranged side by side on a plain light-grey background with flat even lighting. Left panel: full body seen from behind. Middle panel: full body 3/4 front view with one arm raised, pointing to the side. Right panel: close-up of the head and face screen. GWANI: a friendly waist-high white glossy guide robot on a two-wheel base with blue-glowing wheel hubs, a rounded white head with a black glass face screen showing two glowing blue oval eyes and a small smile line, cyan light rings on both sides of the head, two slim white arms with grey joints, and a rectangular chest screen showing a red Mars planet and a white right-pointing arrow. Consistent design across all three panels.
 ```
 
-### D. 스트레스 테스트 (락 전 필수, 3장)
+### D. 스트레스 테스트 (락 전 필수, 3장) — ✅ 통과 (디자인 유지 확인, 크기는 Gemini 기본 비율로 확정; 합성 기준 `assets/scale_lineup.png`는 3배 비율 실험본으로 보관)
 **B + C를 같이 첨부**하고 아래를 3번 생성 → 3장 모두 같은 고양이·같은 옷·같은 로봇으로 보이면 통과.
 ```
 The kitten in the astronaut suit and the guide robot from the reference images standing together, seen from behind, looking at a large red Mars landscape exhibit in a science museum, warm museum lighting, vertical 9:16.
