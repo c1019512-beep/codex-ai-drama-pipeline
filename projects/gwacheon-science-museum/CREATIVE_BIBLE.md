@@ -72,7 +72,7 @@ The kitten in the astronaut suit and the guide robot from the reference images s
 - 실패하면(옷 무늬가 변함, 등이 털로 나옴) 모델 탓이 아니라 묘사 탓 → 해당 시트를 다시 뽑는다.
 
 ### E. 장소 플레이트 3장 (사람·동물 없이, 3/4 앵글, 9:16)
-**E1 로비** → `E1_lobby.png`
+**E1 로비** → `E1_lobby.png` — ✅ 락 완료
 ```
 Wide empty 3/4-angle establishing shot of a bright modern science museum lobby, vertical 9:16, polished light marble floor with reflections, tall glass ceiling, a large hanging Mars planet model, a white wall sign reading '국립과천과학관', a glass entrance door to the exhibition on the right, warm late-afternoon light. No people, clean background plate for character animation.
 ```
@@ -80,7 +80,7 @@ Wide empty 3/4-angle establishing shot of a bright modern science museum lobby, 
 ```
 Wide empty 3/4-angle shot of a futuristic astronaut suit-up room inside a science museum, vertical 9:16, white curved walls, warm ceiling spotlights, a glass changing booth on the left, blue information screens, and an open doorway at the back revealing a red Mars landscape exhibit. No people, clean background plate for character animation.
 ```
-**E3 화성 전시관** → `E3_mars_hall.png`
+**E3 화성 전시관** → `E3_mars_hall.png` — ✅ 락 완료
 ```
 Wide empty 3/4-angle shot of a large indoor Mars exhibit hall, vertical 9:16, red-orange rocky terrain floor with small rocks and rover tracks, a six-wheeled white Mars rover with a camera mast standing on the terrain, a painted Mars desert panorama wall, and a domed ceiling with a ring of warm spotlights and a large Mars image at the top. No people, clean background plate for character animation.
 ```
