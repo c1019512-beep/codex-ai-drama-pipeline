@@ -1,0 +1,28 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 720
+PlayResY: 1280
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Gwani,Pretendard,50,&H00FFE9B8,&H000000FF,&H00301A08,&H80000000,-1,0,0,0,100,100,0,0,1,4,2,2,60,110,430,1
+Style: Nurungji,Pretendard,58,&H0060C8FF,&H000000FF,&H00102040,&H80000000,-1,0,0,0,100,100,0,0,1,4,2,2,60,110,430,1
+Style: Step,Pretendard,34,&H00FFFFFF,&H000000FF,&HB0301A08,&H00000000,-1,0,0,0,100,100,1,0,3,10,0,7,44,40,150,1
+Style: Screen,Pretendard,46,&H00FFF4D6,&H000000FF,&H00FFC060,&HC0301A08,-1,0,0,0,100,100,0,0,3,14,0,8,60,60,420,1
+Style: Title,Pretendard ExtraBold,64,&H00FFFFFF,&H000000FF,&H001A2A6E,&H80000000,-1,0,0,0,100,100,0,0,1,5,3,8,40,40,400,1
+Style: Sub,Pretendard,32,&H00FFE9B8,&H000000FF,&H001A2A6E,&H80000000,-1,0,0,0,100,100,0,0,1,3,2,8,40,40,560,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.60,0:00:07.90,Step,,0,0,0,,{\fad(250,200)}STEP 1  탐사대 등록
+Dialogue: 0,0:00:08.05,0:00:15.40,Step,,0,0,0,,{\fad(200,200)}STEP 2  우주복 착용
+Dialogue: 0,0:00:15.60,0:00:17.90,Step,,0,0,0,,{\fad(200,200)}STEP 3  화성 지형 탐사
+Dialogue: 0,0:00:18.00,0:00:20.00,Step,,0,0,0,,{\fad(200,150)}STEP 4  탐사 완료
+Dialogue: 0,0:00:03.30,0:00:05.40,Gwani,,0,0,0,,{\fad(120,150)}화성까지는 이쪽입니다.
+Dialogue: 0,0:00:06.20,0:00:07.20,Nurungji,,0,0,0,,{\fad(80,150)}냥.
+Dialogue: 0,0:00:14.00,0:00:15.60,Gwani,,0,0,0,,{\fad(120,150)}안전장비… 착용 완료.
+Dialogue: 0,0:00:18.10,0:00:20.10,Screen,,0,0,0,,{\fad(200,200)}오늘의 화성 탐사대원: 1묘
+Dialogue: 0,0:00:20.00,0:00:21.90,Title,,0,0,0,,{\fad(250,0)}화성까지는\N이쪽입니다 →
+Dialogue: 0,0:00:20.00,0:00:21.90,Sub,,0,0,0,,{\fad(250,0)}「꼬마 화성탐사대」 체험 아이디어
