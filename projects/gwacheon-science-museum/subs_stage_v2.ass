@@ -1,0 +1,33 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 720
+PlayResY: 1280
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Line,Pretendard ExtraBold,52,&H004DE1FF,&H000000FF,&H00000000,&H80000000,-1,0,0,0,100,100,0,0,1,5,2,2,50,100,430,1
+Style: Step,Pretendard,34,&H00FFFFFF,&H000000FF,&HB0301A08,&H00000000,-1,0,0,0,100,100,1,0,3,10,0,7,44,40,150,1
+Style: Tag,Pretendard ExtraBold,60,&H00FFFFFF,&H000000FF,&H00301A08,&H80000000,-1,0,0,0,100,100,0,0,1,5,3,8,40,40,360,1
+Style: Title,Pretendard ExtraBold,76,&H004DE1FF,&H000000FF,&H00000000,&H80000000,-1,0,0,0,100,100,0,0,1,6,3,8,40,40,380,1
+Style: Sub,Pretendard,32,&H00FFFFFF,&H000000FF,&H00301A08,&H80000000,-1,0,0,0,100,100,0,0,1,3,2,8,40,40,500,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.60,0:00:07.90,Step,,0,0,0,,{\fad(250,200)}STEP 1  탐사대 등록
+Dialogue: 0,0:00:08.05,0:00:15.40,Step,,0,0,0,,{\fad(200,200)}STEP 2  우주복 착용
+Dialogue: 0,0:00:15.60,0:00:17.90,Step,,0,0,0,,{\fad(200,200)}STEP 3  화성 지형 탐사
+Dialogue: 0,0:00:18.00,0:00:21.00,Step,,0,0,0,,{\fad(200,200)}STEP 4  탐사 완료
+Dialogue: 0,0:00:03.00,0:00:05.30,Line,,0,0,0,,{\fad(120,120)}여기서 화성도 갈 수 있어
+Dialogue: 0,0:00:05.50,0:00:07.80,Line,,0,0,0,,{\fad(120,120)}그럼 화성 탐험 준비됐니?
+Dialogue: 0,0:00:08.30,0:00:10.00,Line,,0,0,0,,{\fad(120,120)}나 화성 탐험 준비됐어!
+Dialogue: 0,0:00:12.40,0:00:13.60,Line,,0,0,0,,{\fad(120,100)}나 어울려?
+Dialogue: 0,0:00:13.70,0:00:15.40,Line,,0,0,0,,{\fad(100,150)}제법인데, 고양이 대장
+Dialogue: 0,0:00:15.80,0:00:17.80,Line,,0,0,0,,{\fad(120,120)}우와, 발자국도 남아!
+Dialogue: 0,0:00:18.10,0:00:19.90,Line,,0,0,0,,{\fad(120,120)}안녕, 네가 길 알려 줄 거야?
+Dialogue: 0,0:00:20.00,0:00:21.00,Line,,0,0,0,,{\fad(100,150)}같이 가!
+Dialogue: 0,0:00:21.10,0:00:23.50,Tag,,0,0,0,,{\fad(250,200)}작은 호기심이
+Dialogue: 0,0:00:22.30,0:00:23.50,Tag,,0,0,0,,{\fad(250,200)\pos(360,500)}큰 탐험이 되는 곳
+Dialogue: 0,0:00:23.60,0:00:25.54,Title,,0,0,0,,{\fad(300,0)}국립과천과학관
+Dialogue: 0,0:00:23.80,0:00:25.54,Sub,,0,0,0,,{\fad(300,0)}「꼬마 화성탐사대」 체험 아이디어
