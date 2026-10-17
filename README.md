@@ -71,12 +71,25 @@ codex plugin marketplace upgrade hamlog-ai
 codex plugin add hamlog-ai-drama-pipeline@hamlog-ai
 ```
 
+## Claude Code에서 설치
+
+Claude Code에서도 같은 스킬을 쓸 수 있습니다. Claude Code 입력창에 아래 명령어를 순서대로 입력하세요.
+
+```text
+/plugin marketplace add c1019512-beep/codex-ai-drama-pipeline
+/plugin install hamlog-ai-drama-pipeline@hamlog-ai
+```
+
+설치 후 Claude Code를 다시 시작하면 스킬이 로드됩니다. 최신 버전은 `/plugin marketplace update hamlog-ai`로 받을 수 있습니다.
+
 ## 구성
 
 ```text
 .agents/plugins/marketplace.json
+.claude-plugin/marketplace.json
 plugins/hamlog-ai-drama-pipeline/
   .codex-plugin/plugin.json
+  .claude-plugin/plugin.json
   skills/
     ai-character-drama/
     drama-ops/
@@ -135,12 +148,25 @@ Step 2: reinstall the plugin.
 codex plugin add hamlog-ai-drama-pipeline@hamlog-ai
 ```
 
+## Claude Code
+
+The same skills also work in Claude Code. Run these in Claude Code:
+
+```text
+/plugin marketplace add c1019512-beep/codex-ai-drama-pipeline
+/plugin install hamlog-ai-drama-pipeline@hamlog-ai
+```
+
+Restart Claude Code after installing to load the skills. Run `/plugin marketplace update hamlog-ai` to get the latest version.
+
 ## Contents
 
 ```text
 .agents/plugins/marketplace.json
+.claude-plugin/marketplace.json
 plugins/hamlog-ai-drama-pipeline/
   .codex-plugin/plugin.json
+  .claude-plugin/plugin.json
   skills/
     ai-character-drama/
     drama-ops/

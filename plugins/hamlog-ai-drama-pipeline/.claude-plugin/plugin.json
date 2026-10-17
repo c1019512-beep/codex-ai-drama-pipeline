@@ -1,0 +1,13 @@
+{
+  "name": "hamlog-ai-drama-pipeline",
+  "version": "0.1.0",
+  "description": "Claude Code skills for Korean AI drama writing, Seedance prompts, consistent character video production, QC, and assembly.",
+  "author": {
+    "name": "Hamlog AI",
+    "url": "https://github.com/hamlog-ai"
+  },
+  "homepage": "https://github.com/c1019512-beep/codex-ai-drama-pipeline",
+  "repository": "https://github.com/c1019512-beep/codex-ai-drama-pipeline",
+  "license": "CC-BY-ND-4.0",
+  "keywords": ["hamlog", "ai-drama", "screenplay", "seedance", "video-production", "korean"]
+}
