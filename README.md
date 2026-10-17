@@ -4,6 +4,32 @@ Codex용 한국어 AI 드라마 제작 플러그인입니다. 스토리 아이�
 
 English version: [English](#english)
 
+## 초보자용 설치 (복사해서 붙여넣기)
+
+1. Codex 앱이나 터미널의 Codex를 실행하세요. 아직 없으면 먼저 Codex를 설치하세요.
+2. 아래 박스 내용을 통째로 복사해서 Codex에 붙여넣으세요. Codex가 알아서 설치해 줍니다.
+
+```text
+아래 Codex 플러그인을 설치해줘.
+
+1. 이 명령어를 실행해서 마켓플레이스를 추가해줘:
+   codex plugin marketplace add c1019512-beep/codex-ai-drama-pipeline --ref main
+
+2. 이어서 이 명령어로 플러그인을 설치해줘:
+   codex plugin add hamlog-ai-drama-pipeline@hamlog-ai
+
+3. 설치가 끝나면 성공했는지 확인해서 한국어로 알려줘.
+   중간에 에러가 나면 원인과 해결 방법을 쉽게 설명해줘.
+```
+
+3. 설치가 끝나면 새 대화(새 스레드)를 여세요. 새 대화부터 스킬이 적용됩니다.
+4. 이렇게 말을 걸어보세요.
+   - "이 스토리 아이디어로 한국 드라마 트리트먼트 써줘"
+   - "이 씬을 Seedance 2.0 컷 프롬프트로 바꿔줘"
+   - "캐릭터 일관성 유지되는 AI 숏드라마 제작 계획 짜줘"
+
+영상 조립 같은 일부 단계에서는 ffmpeg 같은 도구가 더 필요할 수 있습니다. 필요할 때 Codex가 안내해 줍니다.
+
 ## 포함된 스킬
 
 - `screenplay-pipeline`: 한국어 트리트먼트, 씬별 대본, 밈 패러디, IP 체크리스트, DOCX 변환 워크플로
