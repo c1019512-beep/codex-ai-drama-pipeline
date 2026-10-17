@@ -1,0 +1,19 @@
+{
+  "name": "hamlog-ai",
+  "owner": {
+    "name": "Hamlog AI",
+    "url": "https://github.com/hamlog-ai"
+  },
+  "metadata": {
+    "description": "Hamlog AI plugins for Claude Code."
+  },
+  "plugins": [
+    {
+      "name": "hamlog-ai-drama-pipeline",
+      "source": "./plugins/hamlog-ai-drama-pipeline",
+      "description": "Korean AI drama writing, Seedance prompts, consistent character video production, QC, and assembly.",
+      "version": "0.1.0",
+      "category": "creative"
+    }
+  ]
+}
