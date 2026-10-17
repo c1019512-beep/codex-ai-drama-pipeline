@@ -18,7 +18,7 @@ Codex에서 아래 명령어를 순서대로 실행하세요.
 1단계: 이 GitHub 저장소를 Codex 마켓플레이스로 추가합니다.
 
 ```bash
-codex plugin marketplace add hamlog-ai/codex-ai-drama-pipeline --ref main
+codex plugin marketplace add c1019512-beep/codex-ai-drama-pipeline --ref main
 ```
 
 2단계: 플러그인을 설치합니다.
@@ -82,7 +82,7 @@ Run these commands in Codex.
 Step 1: add this GitHub repository as a Codex marketplace.
 
 ```bash
-codex plugin marketplace add hamlog-ai/codex-ai-drama-pipeline --ref main
+codex plugin marketplace add c1019512-beep/codex-ai-drama-pipeline --ref main
 ```
 
 Step 2: install the plugin.
